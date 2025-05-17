@@ -1,1 +1,2 @@
 run = "./auto_push.sh"
+modules = ["nodejs-20"]
