@@ -1,0 +1,9 @@
+
+{
+  "configs": [
+    {
+      "name": "ContrastKit Standalone",
+      "command": "node server.js"
+    }
+  ]
+}

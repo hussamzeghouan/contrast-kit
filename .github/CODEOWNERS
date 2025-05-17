@@ -1,0 +1,11 @@
+# These owners will be the default owners for everything in the repo
+* @hsm_ze
+
+# Frontend code owners
+/client/ @hsm_ze
+
+# Backend code owners
+/server/ @hsm_ze
+
+# Documentation
+/*.md @hsm_ze
