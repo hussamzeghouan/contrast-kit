@@ -2,7 +2,7 @@
 
 ContrastKit is an advanced color accessibility and design workflow tool that empowers developers and designers to create inclusive digital experiences through comprehensive color contrast analysis and validation.
 
-![ContrastKit Screenshot](attached_assets/image_1747079147504.png)
+
 
 ## Features
 
